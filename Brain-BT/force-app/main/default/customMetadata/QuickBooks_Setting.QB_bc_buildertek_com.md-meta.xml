@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>QB_bc@buildertek.com</label>
+    <protected>false</protected>
+    <values>
+        <field>Access_Token__c</field>
+        <value xsi:type="xsd:string">eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..otXqCYz8rLcI3dwWeqMvVQ.SDFHmoI7mzHdafm4ezOOaO6pXvNCNqDNRsmltGz8x1cgFFCGZW9FkE4UN5Vc-yMDNQ2by9B9FOYxT98AxWzQcOCXmTYyv0j1kH-1jo0nJT-9UkyswvGuq6qUPNo3QXEw2fSP-A2TcKE496SkkxWgxKKHTOS7IwfOASy4h9mmuaG2yuNoVGBsNFnKTyb9fk0JaNKEezH78mBvVF__8ptKWHzXBfWo1w8MXCARxF5FSV9gw4vMARl4uN38SD2g3B3uwEZteTCFhw93L83HPgPu-wZ7yLD1OmRaMLONslI1ULVWQKba_uDpMWdxrHJoW-29RxXxGakKF8X9s5fJMjuVqCemw8RhqqKKFHpJ7FgSZS4Abe1G8xzZMfCUaoHK4MzerFokKSTPZIq-ZWUu-MFK9PeU13jbHGJ8hSsGBDNvpH78dfoRCNml9-c-_6y13aCJl_jELpgwe5OI4_68dxLH19jqYaokawaYGSE-G6q_hJQiBi8Y5WbCpQPaZqt1su0aLnGfQO2Cyim39kyQPr91BdGq0yiCRg2He3g_EaV64DB_GmiXUU2JoBaxN8xabMC2DZstXYNfAxsFcALXDt9xSXNFHrDgmU3TWtEciEYKPO895WBV7z-e8P0-opTp2rx9A7rKkb9ioaLSk5oPUzHFKCSdmbsBnDBcNkcFS3lWshZ-YIbH9geF22CHzXjV1dOvra7MOOKGBbBIjEFlsGB_b2hw3Xi5dAMGqbeVst8-BciEXtl9jE9fPqYVtHMW9ihB.LnvnL95Bpn-rN63a7xvu2A</value>
+    </values>
+    <values>
+        <field>Client_Id__c</field>
+        <value xsi:type="xsd:string">ABmpkippd2igjPdOhtsgwJt0LixErEGUNY9Wm80kMSYLrMwAT5</value>
+    </values>
+    <values>
+        <field>Client_Secret__c</field>
+        <value xsi:type="xsd:string">jBNy2yysiB8UsNolXOWkcj8h4ppBf2vlQG0i34Bd</value>
+    </values>
+    <values>
+        <field>Company_Id__c</field>
+        <value xsi:type="xsd:string">4620816365220119350</value>
+    </values>
+    <values>
+        <field>Refresh_Token__c</field>
+        <value xsi:type="xsd:string">AB11667825495KkACyiaOQddz5WosuRhRz6h9cOgQZFkUMt9f4</value>
+    </values>
+    <values>
+        <field>Scope__c</field>
+        <value xsi:type="xsd:string">com.intuit.quickbooks.accounting</value>
+    </values>
+</CustomMetadata>

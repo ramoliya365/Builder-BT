@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>File Upload Record</label>
+    <protected>false</protected>
+    <values>
+        <field>Access_Token__c</field>
+        <value xsi:type="xsd:string">https://btservice360-dev-ed.my.salesforce.com/services/oauth2/token</value>
+    </values>
+    <values>
+        <field>Client_Id__c</field>
+        <value xsi:type="xsd:string">3MVG9szVa2RxsqBbEqYDR3uOV8cLx8d1qQooZedvYBTs0KkpxPma5Jr5hpM6iPxpl7.5kUT2iOv6d9RTdel96</value>
+    </values>
+    <values>
+        <field>Client_Secret__c</field>
+        <value xsi:type="xsd:string">A97C82A54A0E1C09E204429C4A8CAE9F4E652B16AD5757BADAD4518A3159BDD5</value>
+    </values>
+    <values>
+        <field>Password__c</field>
+        <value xsi:type="xsd:string">Today123#</value>
+    </values>
+    <values>
+        <field>User_Name__c</field>
+        <value xsi:type="xsd:string">bc@buildertek.com</value>
+    </values>
+</CustomMetadata>

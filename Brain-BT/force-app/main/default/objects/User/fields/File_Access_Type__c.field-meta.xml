@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>File_Access_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Files and folders will be shared to this user as per this field value.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Public Download Only -  Allow downloading all files with &quot;Public Download Only&quot; access type.
+Public Download &amp; Write - Allow downloading and edit all files with &quot;Public Download &amp; Write&quot; access type.
+None - Allow downloading only his/her files.</inlineHelpText>
+    <label>Share all file / folder with Access Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Public Download Only</fullName>
+                <default>false</default>
+                <label>Public Download Only</label>
+            </value>
+            <value>
+                <fullName>Public Download &amp; Write</fullName>
+                <default>false</default>
+                <label>Public Download &amp; Write</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

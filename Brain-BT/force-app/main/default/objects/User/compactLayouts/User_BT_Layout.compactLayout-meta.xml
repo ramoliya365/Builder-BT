@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>User_BT_Layout</fullName>
+    <fields>Name</fields>
+    <fields>Title</fields>
+    <fields>CompanyName</fields>
+    <fields>Email</fields>
+    <fields>Phone</fields>
+    <label>User BT Layout</label>
+</CompactLayout>

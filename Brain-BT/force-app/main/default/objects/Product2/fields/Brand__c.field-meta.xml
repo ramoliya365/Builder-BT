@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brand__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Brand</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Model 8000</fullName>
+                <default>false</default>
+                <label>Model 8000</label>
+            </value>
+            <value>
+                <fullName>Genie</fullName>
+                <default>false</default>
+                <label>Genie</label>
+            </value>
+            <value>
+                <fullName>Model 8300</fullName>
+                <default>false</default>
+                <label>Model 8300</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

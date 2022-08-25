@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BuilderTek</fullName>
+    <fields>Name</fields>
+    <fields>Trade_Type_Lookup__c</fields>
+    <fields>Phone</fields>
+    <fields>Email_Address__c</fields>
+    <fields>Bid_Rating__c</fields>
+    <label>BuilderTek</label>
+</CompactLayout>

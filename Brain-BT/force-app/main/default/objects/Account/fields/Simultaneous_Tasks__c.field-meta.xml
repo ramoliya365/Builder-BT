@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Simultaneous_Tasks__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <inlineHelpText>This field reflects the number of scheduled tasks that a Contact/Resource can work on at a single time.  If the contact/resource is assigned to more tasks than this value the Schedule Dashboard will reflect a conflict.</inlineHelpText>
+    <label>Simultaneous Tasks</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bid_Rating_Star__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <formula>IMAGE( 
+IF(((Total_Rating__c*100) &gt;= 90), &quot;/img/samples/stars_500.gif&quot;, 
+IF(((Total_Rating__c*100) &gt;= 80 &amp;&amp; Total_Rating__c &lt; 90), &quot;/img/samples/stars_400.gif&quot;, 
+IF(((Total_Rating__c*100) &gt;= 70 &amp;&amp; Total_Rating__c &lt; 80), &quot;/img/samples/stars_300.gif&quot;, 
+IF(((Total_Rating__c*100) &gt;= 60 &amp;&amp; Total_Rating__c &lt; 70), &quot;/img/samples/stars_200.gif&quot;, 
+IF(((Total_Rating__c*100) &lt; 60), &quot;/img/samples/stars_100.gif&quot;, &quot;/img/samples/stars_000.gif&quot; 
+))))), 
+&quot;Rating&quot;)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Vendor Rating</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

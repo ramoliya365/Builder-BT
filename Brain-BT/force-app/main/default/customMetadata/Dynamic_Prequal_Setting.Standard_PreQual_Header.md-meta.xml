@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Standard PreQual Header</label>
+    <protected>false</protected>
+    <values>
+        <field>Header_1__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Header_2__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Header__c</field>
+        <value xsi:type="xsd:string">Standard Pre-Qualification</value>
+    </values>
+    <values>
+        <field>Height_Width__c</field>
+        <value xsi:type="xsd:string">height: 30px;width: 125px</value>
+    </values>
+</CustomMetadata>

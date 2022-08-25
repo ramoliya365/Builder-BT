@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AllAccounts</fullName>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>Trade_Type_Lookup__c</columns>
+    <columns>BT_Account_Type__c</columns>
+    <columns>Bid_Rating_Star__c</columns>
+    <columns>ACCOUNT.PHONE1</columns>
+    <columns>ACCOUNT.ADDRESS1_STREET</columns>
+    <columns>ACCOUNT.ADDRESS1_CITY</columns>
+    <columns>ACCOUNT.ADDRESS1_STATE</columns>
+    <columns>Vendor_Meets_Insurance_Requirements__c</columns>
+    <columns>ACCOUNT.CREATED_DATE</columns>
+    <columns>Pre_Qualified__c</columns>
+    <columns>Qualification_Date__c</columns>
+    <columns>Qualification_Stage__c</columns>
+    <columns>Email_Address__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Accounts</label>
+</ListView>
